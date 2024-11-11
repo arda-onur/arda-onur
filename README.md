@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java , Spring Framework**
 
-- 📫 How to reach me **arda.onur@ozu.edu.tr**
+- 📫 How to reach me **ardaonur15@gmail.com**
 
 
 <h3 align="left">How to Reach me :</h3>
